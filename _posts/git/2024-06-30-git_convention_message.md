@@ -8,4 +8,5 @@ tags: [git, 형상관리, commitlint]
 ---
 
 # Reference
+[git conventions message rule](https://velog.io/@archivvonjang/Git-Commit-Message-Convention)
 [git commit 관리](https://blog.flynnpark.dev/13)
